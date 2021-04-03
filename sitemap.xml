@@ -1,106 +1,16 @@
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-    <loc>https://www.iraq0.com/fadi/</loc>
-    <lastmod>2020-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/njom/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/nbd/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/wow/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/bnzn/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/bnbs/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/sraj/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/gulls/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/dawy/</loc>
-    <lastmod>2020-12-11</lastmod>
-  </url>
-   <url>
-    <loc>https://www.iraq0.com/bnct/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/mlokar/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-   <url>
-    <loc>https://www.iraq0.com/bnkl/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/bnic/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/mkhbl/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/bnar/</loc>
-    <lastmod>2020-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/bnkd/</loc>
-    <lastmod>2020-12-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/bnob/</loc>
-    <lastmod>2020-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/rose/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/ghzl/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/md7b/</loc>
-    <lastmod>2020-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/tbrf/</loc>
-    <lastmod>2020-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/tbgd/</loc>
-    <lastmod>2020-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/l7en/</loc>
-    <lastmod>2020-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/smo/</loc>
-    <lastmod>2020-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/sbd/</loc>
-    <lastmod>2020-11-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.iraq0.com/argd/</loc>
-    <lastmod>2020-11-30</lastmod>
-  </url>
+  <loc>https://www.imetze.com/</loc>
+  <lastmod>2021-04-03T13:31:21+00:00</lastmod>
+</url>
+
+
 </urlset>
